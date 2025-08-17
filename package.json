@@ -1,0 +1,16 @@
+{
+  "name": "bot-discord-tempvoice",
+  "version": "1.0.0",
+  "description": "Bot de Discord para canais de voz temporários",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Seu Nome",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.21.0",
+    "dotenv": "^16.6.1"
+  },
+  "keywords": []
+}
